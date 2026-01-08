@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cerdo</string>
+    <string name="about">Acerca de</string>
+    <string name="support">Soporte</string>
+    <string name="clickimage">ClicImagen</string>
+    <string name="welcome_to_pig_game">¡Bienvenido al JUEGO DEL CERDO!</string>
+    <string name="you">Tú</string>
+    <string name="pig">CERDO</string>
+    <string name="computer">computadora</string>
+    <string name="games_won">Juegos Ganados</string>
+    <string name="total_score">Puntuación Total</string>
+    <string name="turn_total">Total del Turno</string>
+    <string name="dice_two">dado2</string>
+    <string name="dice_one">dado1</string>
+    <string name="dice_total">Total de Dados</string>
+    <string name="roll">Tirar</string>
+    <string name="hold">Plantarse</string>
+    <string name="winner">Ganador</string>
+    <string name="loser">Perdedor</string>
+    <string name="one_dice">Un Dado = 1 Termina el turno.</string>
+    <string name="both_dice">Ambos Dados = 1 Reinicia la puntuación.</string>
+    <string name="computer_both_dice">¡La computadora sacó dos 1!</string>
+    <string name="new_one_dice">¡La computadora sacó dos 1!</string>
+    <string name="rolled_both_1s">¡Sacaste dos 1!</string>
+    <string name="rolled_a_1">Sacaste un 1</string>
+    <string name="you_rolled">Sacaste: %1$d</string>
+    <string name="computer_rolled_one">¡La computadora sacó un 1!</string>
+    <string name="computer_rolled">La computadora sacó: %1$d</string>
+    <string name="hold_text">PLANTARSE</string>
+    <string name="you_win">¡Ganaste!</string>
+    <string name="computer_wins">¡La computadora gana!</string>
+    <string name="zero">0</string>
+    <string name="Show_Leaderboard">Mostrar tabla de líderes</string>
+    <string name="play_game">jugar juego</string>
+    <string name="Pig_Leader_Board">Tabla de líderes de cerdos</string>
+
+
+</resources>
